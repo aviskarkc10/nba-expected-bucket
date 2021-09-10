@@ -2,3 +2,4 @@
 analysis/experiments/*
 data/*
 
+!data/merged_tracking_shots.csv
