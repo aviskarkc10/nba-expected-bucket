@@ -44,6 +44,25 @@ I used convex hull technique to calculate the `OFFENSE_SPACING` and `DEFENSE_SPA
 
 <img src="images/hexbin of all shots.png" alt="Hex bin of shots">
 
+## Does better spacing result in higher shooting percentage?
+
+From the charts below we can infer that, although that is not the case always, we do see that among the teams with shooting percentage higher than the league average, the spacing also is better and vice versa
+
+<p display="flex">
+    <img width="48%" src="images/average_defense_spacing vs field_goal_percentage.png" alt="average defense spacing vs field goal percentage">
+    <img width="48%" src="images/average_offense_spacing vs field_goal_percentage.png" alt="average offense spacing vs field goal percentage">
+</p>
+
+<p display="flex">
+    <img width="48%" src="images/average_defense_spacing vs two_point_percentage.png" alt="average defense spacing vs two point percentage">
+    <img width="48%" src="images/average_offense_spacing vs two_point_percentage.png" alt="average offense spacing vs two point percentage">
+</p>
+
+<p display="flex">
+    <img width="48%" src="images/average_defense_spacing vs three_point_percentage.png" alt="average defense spacing vs three point percentage">
+    <img width="48%" src="images/average_offense_spacing vs three_point_percentage.png" alt="average offense spacing vs three point percentage">
+</p>
+
 ## Shooting % based on zones?
 
 <img src="images/Shooting percentage based on zones.jpg" alt="Shooting percentage based on zones">
