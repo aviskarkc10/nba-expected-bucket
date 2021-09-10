@@ -65,3 +65,7 @@ I used convex hull technique to calculate the `OFFENSE_SPACING` and `DEFENSE_SPA
 <img src="images/Random Forest shooting percentage based on zones.png" alt="images/Random Forest shooting percentage based on zones">
 
 <img src="images/Random Forest points per shot based on zones.png" alt="images/Random Forest points per shot based on zones">
+
+## LICENCE
+
+[MIT](LICENCE)
